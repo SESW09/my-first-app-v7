@@ -1,0 +1,15 @@
+{
+  "name": "AI 수행평가 일정 관리 도우미",
+  "short_name": "수행평가도우미",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2666/2666505.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
